@@ -1,4 +1,9 @@
 *{
     border: 1px solid red;
     background-color: blue;
+    min-height: 100px;
+}
+.hero, .portfolio, .about, .contact{
+    max-width: 1140px;
+    margin: 0 auto;
 }
