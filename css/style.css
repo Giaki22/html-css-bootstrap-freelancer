@@ -1,14 +1,4 @@
 /* HEADER */
-header{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-}
-ul{
-    margin: 0;
-    display: flex;
-    flex-flow: row wrap;
-}
 li{
     display: flex;
     text-decoration: none;
@@ -16,10 +6,6 @@ li{
 a{
     text-decoration: none;
     color: white;
-}
-.head_nav{
-    display: flex;
-    justify-content: flex-end;
 }
 /* STYLE */
 .bk_primary{
